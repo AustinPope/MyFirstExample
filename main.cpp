@@ -6,8 +6,6 @@ using std::endl;
 
 int main()
 {
-    cout<<"Hi, please enter two numbers: ";
-
     int x,y;
 
     cin >> x >> y;
